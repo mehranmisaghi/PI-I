@@ -8,7 +8,7 @@
 - [1INFO3](gsites3.md)
 ---
 ## Material sobre github (30/04 - 03/05)
- - [material de aula](aula-github.md)
+ - [Notas da aula](aula-github.md)
  ---
 ## Nossa próxima aula
 
@@ -16,3 +16,7 @@
 - Fazer as operações básicas sobre os repositórios
 - Formar grupos para próximos projetos
 --- 
+
+## Projetos de Sites para 2o e 3o trimestre
+
+- [Projetos de Sites]() 
