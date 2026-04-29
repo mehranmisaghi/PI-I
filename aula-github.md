@@ -1,5 +1,7 @@
 # Uma pequena introdução sobre GitHub
 
+[Slides da aula](https://canva.link/ezl65joaf73wqf1)
+---
 ## O que é o GitHub?
 
 O **GitHub** pode ser definido como uma plataforma online usada para guardar projetos e códigos.
