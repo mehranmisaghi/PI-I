@@ -1,14 +1,29 @@
 # Projeto Integrador I (PI-I) [2026/1]
-Repositório para material didático de Projeto Integrador I
+
+> Este repositório é destinado para material didático do **Projeto Integrador I**.
 ---
+## Pontuação das apresentações em Grupo (30/04 - 03/05)
+- [1INFO1](gsites1.md)
+- [1INFO2](gsites2.md)
+- [1INFO3](gsites3.md)
+ Grupo | Pontuação |
+|----|----|
+| G6 |4,80|
+| G2 |4,58|
+| G5 |4,37|
+| G3 |4,23|
+| G4 |4,16|
+| G7 |4,10|
+| G1 |3,90|
 
-## Material sobre github
->no link abaixo você pode encontrar material sobre parte básica de github
-## Metodologia
+---
+## Material sobre github (30/04 - 03/05)
+ - [material de aula](aula-github.md)
+ ---
+## Nossa próxima aula
 
-- Aulas expositiva dialogadas com uso de ferramentas de simulação de ambientes.
-- Aulas invertidas (trazer um caso real e chegar no problema raíz e discutir os conceitos)
-- Estudos de casos reais
+- Verificar as contas criadas no GitHub
+- Fazer as operações básicas sobre os repositórios
 
 ## Avaliação
 
