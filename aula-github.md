@@ -26,52 +26,47 @@ O **GitHub** pode ser definido como uma plataforma online usada para guardar pro
 
 ---
 
-## 🧭 3. Conhecendo a Tela Inicial
+## O que você vai ver primeiro?
 
-Após entrar, você verá:
-
-- 📁 **Repositories** → seus projetos
-- 👤 **Profile** → seu perfil
-- ➕ **Botão +** → criar coisas novas
+-  **Repositories** → seus projetos
+- **Profile** → seu perfil
+- **Botão +** → criar coisas novas
 
 ---
 
-## 📁 4. Criando um Repositório
+##  Criar um Repositório
 
 Um repositório é como uma **pasta do seu projeto**.
 
-### ✅ Passo a passo:
 
 1. Clique no botão ➕ (canto superior direito)
 2. Clique em **New repository**
 3. Preencha:
-   - Nome (ex: `meu-primeiro-projeto`)
-   - Descrição (opcional)
+   - Nome (Coloque **P_Integrador**)
+   - Descrição (Este repositório é para fazer os exercícios do **Projeto Integrador**)
 4. Escolha:
-   - ✅ Public
+   -  _Public_ (para repositório público)
 5. Marque:
-   - ✅ Add a README
+   - _Add a README_
 6. Clique em **Create repository**
 
-✅ Repositório criado com sucesso!
+>Seu reepositório criado com sucesso!
 
 ---
 
-## 📥 5. O que é Clonar um Repositório?
-
-Clonar = **baixar o projeto do GitHub para o seu computador**.
-
----
-
-## ⚙️ 6. Instalando o Git
+## Se você precisar instalar Git no seu computador
 
 1. Acesse: https://git-scm.com
 2. Baixe o instalador
 3. Clique em **Next** até finalizar
 
 ---
+## O que é Clonar um Repositório?
 
-## 📦 7. Clonando um Repositório
+Clonar = **fazer download de um repositóriodo GitHub para o seu computador**.
+
+---
+## Clonar um Repositório
 
 ### 🔗 No GitHub:
 
@@ -86,7 +81,7 @@ https://github.com/seu-usuario/meu-projeto.git
 
 ---
 
-### 💻 No computador:
+###  No computador:
 
 1. Abra o terminal
 2. Vá até a pasta desejada:
@@ -99,19 +94,19 @@ cd Desktop
 git clone https://github.com/seu-usuario/meu-projeto.git
 ```
 
-✅ Projeto baixado!
+_Repositório foi clonado no seu computador._
 
 ---
 
-## 📂 8. Entrando na Pasta
+## para entrar numa pasta
 
 ```
-cd meu-projeto
+cd meu-repositorio
 ```
 
 ---
 
-## ✏️ 9. Editando um Arquivo
+##  Para editandr um Arquivo
 
 1. Abra o arquivo `README.md`
 2. Escreva seu nome
@@ -119,9 +114,8 @@ cd meu-projeto
 
 ---
 
-## ☁️ 10. Enviando Alterações (Commit e Push)
+## Enviandr alterações (Commit e Push)
 
-### ✅ Passos:
 
 1. Ver alterações:
 ```
@@ -143,32 +137,30 @@ git commit -m "Atualizei o README"
 git push
 ```
 
-✅ Alterações enviadas!
+Alterações enviadas!
 
 ---
 
-## 🧠 11. Conceitos Importantes
+## Resumo
 
 | Termo | Significado |
 |------|------------|
 | Repositório | Pasta do projeto |
 | Clone | Baixar projeto |
 | Commit | Salvar mudanças |
-| Push | Enviar para internet |
+| Push | Enviar para GitHub |
 | Pull | Atualizar projeto |
 
 ---
 
-## 💡 12. Dicas para Iniciantes
+## Algumas Dicas
 
 - Use nomes simples
-- Escreva mensagens claras
-- Teste sem medo 😄
-- Errar faz parte!
+- Escreva mensagens claras (commit)
 
 ---
 
-## 🧪 13. Exercício Prático
+## Vamos exercitar
 
 1. Criar conta no GitHub
 2. Criar repositório:
@@ -179,10 +171,7 @@ aula-github
 4. Editar README com seu nome
 5. Fazer commit e push
 
-✅ Se conseguiu, você já sabe o básico!
+Se conseguiu, você já sabe o básico!
 
 ---
-
-## 🎉 Parabéns!
-
-Você deu seus primeiros passos com GitHub 🚀
+### [Voltar](README.md)
